@@ -4,8 +4,8 @@ public class Rectangle {
     double lebar;
     
     public Rectangle(){
-        panjang=5;
-        lebar=2;
+        panjang=10;
+        lebar=20;
     }
     
     void cetakInfo(){
